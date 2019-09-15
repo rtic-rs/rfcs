@@ -7,33 +7,12 @@ a great choice for embedded real-time development.
 
 [issue tracker]: https://github.com/rtfm-rs/rfcs/issues
 
-**Want to get started with embedded development with Rust?** Check out our
-[embedded Rust book][book] and the rest of our [bookshelf].
+**Want to get started with real-time embedded development with Rust?** Check out our
+[RTFM book][book].
 
 [book]: https://docs.rust-embedded.org/book
-[bookshelf]: https://docs.rust-embedded.org
-
-## Vision
-
-What is it that we really want? At a broad level:
-
-- TODO: Fill this
-
-## What we do
-
-- TODO: Fill this
-
-## How you can help
-
-- TODO: Fill this
-
-## Organization
-
-- TODO: Fill this
 
 ### The developers
-
-#### Members
 
 - [@japaric]
 - [@korken89]
@@ -47,7 +26,10 @@ The following members have put themselves into hibernation the hibernation state
 
 ### Contact
 
-- TODO: Fill this
+- To come into contact with us please open an issue here
+- Or come and talk to us in [RTFM Matrix Room]
+
+[RTFM Matrix Room]
 
 ## RFCs
 

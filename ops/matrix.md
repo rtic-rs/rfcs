@@ -14,7 +14,7 @@ for information on how Matrix administration and permissions work.
 
 RTFM [core team](https://github.com/orgs/rtfm-rs/teams/devs) members are
 channel administrators (PL100), responsible for both maintaining the channel as
-required and enforcing the WG's Code of Conduct.
+required and enforcing the Team's Code of Conduct.
 
 * Can send messages
 * Can invite users
@@ -30,8 +30,8 @@ required and enforcing the WG's Code of Conduct.
 * Can change other users' permissions
 * Can change topic
 
-All WG members may be channel moderators on request, responsible for enforcing
-the WG's Code of Conduct.
+All team members may be channel moderators on request, responsible for enforcing
+the team's Code of Conduct.
 
 * Can send messages
 * Can invite users
@@ -40,7 +40,7 @@ the WG's Code of Conduct.
 * Can notify everyone
 * Can change topic
 
-For a WG member to request to become a channel moderator (or a new core team
+For a team member to request to become a channel moderator (or a new core team
 member to become an administrator), they should contact a core team member
 [via GitHub](https://github.com/orgs/rtfm-rs/teams/devs) with their
 Matrix username (e.g., `@username:matrix.org`) to be given moderator
