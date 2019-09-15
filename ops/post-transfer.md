@@ -56,7 +56,7 @@ matrix:
 
 <!-- TODO add this -->
 
-This project is developed and maintained by the [Cortex-M team][team].
+This project is developed and maintained by the [RTFM team][team].
 
 <!-- ... omitting stuff in between ... -->
 
