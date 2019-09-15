@@ -13,6 +13,9 @@ a great choice for embedded real-time development.
 [book]: https://docs.rust-embedded.org/book
 [bookshelf]: https://docs.rust-embedded.org
 
+## Roadmap
+A section on the RTFM roadmap. This should later link to specific issues followed by PRs in the corresponding repos (e.g., the `cortex-m-rtfm` repo).
+
 ## Vision
 
 What is it that we really want? At a broad level:
