@@ -7,7 +7,7 @@ state. During this hibernation period:
 - The member will be removed from their GitHub teams'. `cc @rtfm-rs/$team`
   will *not* cc them.
 
-- The member name will be removed from the list of teams in the rtfm-rs/wg
+- The member name will be removed from the list of teams in the rtfm-rs/rfcs
   README, but they will be listed under the 'Hibernating' section of that
   README.
 
@@ -18,4 +18,4 @@ state. During this hibernation period:
 To enter or leave the hibernation state the member will:
 
 - Notify their teams (e.g. `cc @rtfm-rs/$team`) and send a PR to
-  rtfm-rs/wg updating the README to reflect their hibernation state.
+  rtfm-rs/rfcs updating the README to reflect their hibernation state.
