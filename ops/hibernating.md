@@ -1,7 +1,7 @@
 # Hibernating
 
 A member that will be absent or busy for an extended period of time and not able
-to participate in the WG during that time should put themselves in "hibernation"
+to participate in the Team during that time should put themselves in "hibernation"
 state. During this hibernation period:
 
 - The member will be removed from their GitHub teams'. `cc @rtfm-rs/$team`
