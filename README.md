@@ -27,9 +27,9 @@ The following members have put themselves into hibernation the hibernation state
 ### Contact
 
 - To come into contact with us please open an issue here
-- Or come and talk to us in [RTFM Matrix Room]
+- Or come and talk to us in the [RTFM Matrix Room]
 
-[RTFM Matrix Room]
+[RTFM Matrix Room]: https://matrix.to/#/!yafYEipFNsXDdwiHMT:matrix.org
 
 ## RFCs
 
