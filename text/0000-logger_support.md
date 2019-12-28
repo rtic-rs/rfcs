@@ -36,7 +36,13 @@ Or we can have a base size, together with possible specialization (bikeshed of A
 // ...
 ```
 
-The final implementation of the logging is very simple. Simply, based on the analysis, fill out the [`cortex-m-funnel`] macro as.
+The final implementation of the logging is very simple. Simply, based on the analysis, fill out the [`cortex-m-funnel`] macro.
+
+One thing we should be careful with is that the logger should be **external** to RTFM so it is easy to include in libraries. Just as the [`log`] crate is today.
+
+## Should the log be part of task definition?
+
+It is my view that it should not. We should follow the common design of [`log`] and [`cortex-m-funnel`], where the log macros can be added anywhere without propagating it down through the call tree. This is the key feature that makes it easy to use, just have RTFM provide the information to properly initialize the queues for the logger.
 
 # How We Teach This
 [how-we-teach-this]: #how-we-teach-this
@@ -59,3 +65,4 @@ This should be added to the book as its own `Safe logging` chapter.
 * API design
 
 [`cortex-m-funnel`]: https://github.com/japaric/cortex-m-funnel
+[`log`]: https://github.com/rust-lang/log
