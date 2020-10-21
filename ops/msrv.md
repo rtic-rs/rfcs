@@ -1,6 +1,6 @@
 # Minimum Supported Rust Version (MSRV)
 
-This text documents the MSRV policy used in the crates maintained by the RTFM developers.
+This text documents the MSRV policy used in the crates maintained by the RTIC developers.
 
 - Changing the MSRV of a crate is a breaking change and requires a semver bump:
   minor version bump if the crate is pre-1.0 and a major version bump if the

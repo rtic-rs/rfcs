@@ -21,4 +21,4 @@ need to be approved by the whole team (see [voting majority]) before they are se
 
 - At this point you can review the PR and send it to bors.
 
-[voting majority]: https://github.com/rtfm-rs/rfcs/blob/master/ops/0136-teams.md#voting-majority
+[voting majority]: https://github.com/rtic-rs/rfcs/blob/master/ops/0136-teams.md#voting-majority

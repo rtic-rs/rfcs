@@ -2,7 +2,7 @@
 
 ## Travis CI
 
-Browse to https://travis-ci.org/rtfm-rs/repo-name/settings and make sure that "Build pushed
+Browse to https://travis-ci.org/rtic-rs/repo-name/settings and make sure that "Build pushed
 pull requests" is enabled.
 
 
@@ -13,7 +13,7 @@ Push a commit to `master` that does the following:
 - Creates `.github/CODEOWNERS` with the following contents:
 
 ``` text
-* rtfm-rs/team-name collaborator-name another-collaborator
+* rtic-rs/team-name collaborator-name another-collaborator
 ```
 
 - Adds a copy of `CODE_OF_CONDUCT.md`. Don't forget to adjust the team name and associated
@@ -56,7 +56,7 @@ matrix:
 
 <!-- TODO add this -->
 
-This project is developed and maintained by the [RTFM team][team].
+This project is developed and maintained by the [RTIC team][team].
 
 <!-- ... omitting stuff in between ... -->
 
@@ -65,11 +65,11 @@ This project is developed and maintained by the [RTFM team][team].
 ## Code of Conduct
 
 Contribution to this crate is organized under the terms of the [Rust Code of
-Conduct][CoC], the maintainer of this crate, the [RTFM team][team], promises
+Conduct][CoC], the maintainer of this crate, the [RTIC team][team], promises
 to intervene to uphold that code of conduct.
 
 [CoC]: CODE_OF_CONDUCT.md
-[team]: https://github.com/orgs/rtfm-rs/teams/devs
+[team]: https://github.com/orgs/rtic-rs/teams/devs
 ```
 
 - If the repository uses CI, configure bors. Add a `.github/bors.toml` file with these contents:
@@ -85,7 +85,7 @@ status = ["continuous-integration/travis-ci/push"]
 
 If the repository uses CI, update bors settings.
 
-- Browse to https://app.bors.tech/repositories, click on rtfm-rs/repo-name and then switch
+- Browse to https://app.bors.tech/repositories, click on rtic-rs/repo-name and then switch
   to the "Settings" tab.
 
 - Synchronize both "Reviewers" and "Members" to people with "Push" (write) access to the
@@ -95,7 +95,7 @@ If the repository uses CI, update bors settings.
 
 Update the repository settings.
 
-- Browse to https://github.com/rtfm-rs/repo-name/settings and switch to the "Collaborators &
+- Browse to https://github.com/rtic-rs/repo-name/settings and switch to the "Collaborators &
   teams" tab.
 
 - Add the team that will oversee the project and give them "Admin" permissions.
@@ -121,5 +121,5 @@ If applicable, add new owners to crates.io. Have the current owner add the team 
 the crate as a team owner.
 
 ```
-$ cargo owner --add github:rtfm-rs:team-name
+$ cargo owner --add github:rtic-rs:team-name
 ```

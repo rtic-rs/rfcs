@@ -28,6 +28,6 @@ In the Rust community we strive to go the extra step to look out for each other.
 
 And if someone takes issue with something you said or did, resist the urge to be defensive. Just stop doing what it was they complained about and apologize. Even if you feel you were misinterpreted or unfairly accused, chances are good there was something you could've communicated better — remember that it's your responsibility to make your fellow Rustaceans comfortable. Everyone wants to get along and we are all here first and foremost because we want to talk about cool technology. You will find that people will be eager to assume good intent and forgive as long as you earn their trust.
 
-The enforcement policies listed above apply to all official venues; including the official Matrix room (#rtfm-rs:matrix.org); GitHub repositories under rtfm-rs; and all forums under rtfm-rs.
+The enforcement policies listed above apply to all official venues; including the official Matrix room (#rtic-rs:matrix.org); GitHub repositories under rtic-rs; and all forums under rtic-rs.
 
 *Adapted from the [Node.js Policy on Trolling](http://blog.izs.me/post/30036893703/policy-on-trolling) as well as the [Contributor Covenant v1.3.0](https://www.contributor-covenant.org/version/1/3/0/).*

@@ -1,9 +1,9 @@
 # Matrix Operational Notes
 
-The RTFM developers use the following Matrix room for our regular
+The RTIC developers use the following Matrix room for our regular
 meetings and community discussion:
 
-[#rtfm-rs:matrix.org](https://matrix.to/#/!yafYEipFNsXDdwiHMT:matrix.org)
+[#rtic-rs:matrix.org](https://matrix.to/#/!yafYEipFNsXDdwiHMT:matrix.org)
 
 The document details the organization of the room.
 
@@ -12,7 +12,7 @@ The document details the organization of the room.
 See the [Matrix Moderation Guide](https://matrix.org/docs/guides/moderation)
 for information on how Matrix administration and permissions work.
 
-RTFM [core team](https://github.com/orgs/rtfm-rs/teams/devs) members are
+RTIC [core team](https://github.com/orgs/rtic-rs/teams/devs) members are
 channel administrators (PL100), responsible for both maintaining the channel as
 required and enforcing the Team's Code of Conduct.
 
@@ -42,7 +42,7 @@ the team's Code of Conduct.
 
 For a team member to request to become a channel moderator (or a new core team
 member to become an administrator), they should contact a core team member
-[via GitHub](https://github.com/orgs/rtfm-rs/teams/devs) with their
+[via GitHub](https://github.com/orgs/rtic-rs/teams/devs) with their
 Matrix username (e.g., `@username:matrix.org`) to be given moderator
 permissions.
 
