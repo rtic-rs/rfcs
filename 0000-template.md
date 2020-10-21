@@ -1,7 +1,7 @@
 - Feature Name: (fill me in with a unique ident, my_awesome_feature)
 - Start Date: (fill me in with today's date, YYYY-MM-DD)
-- RFC PR: (leave this empty)
-- Rust Issue: (leave this empty)
+- RFC PR: [rtic-rs/rfcs#0000](https://github.com/rtic-rs/rfcs/pull/0000)
+- RTIC Issue: [rtic-rs/cortex-m-rtic#0000](https://github.com/rtic-rs/cortex-m-rtic/issues/0000)
 
 # Summary
 [summary]: #summary
