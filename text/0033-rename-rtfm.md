@@ -1,7 +1,7 @@
 - Feature Name: rename-rtfm
 - Start Date: 2020-04-20
-- RFC PR: (leave this empty)
-- Rust Issue: (leave this empty)
+- RFC PR: [rtic-rs/rfcs#0033](https://github.com/rtic-rs/rfcs/pull/33)
+- RTIC Issue/PR: [rtic-rs/cortex-m-rtic#0000](https://github.com/rtic-rs/cortex-m-rtic/pull/325)
 
 # Summary
 [summary]: #summary
