@@ -35,13 +35,13 @@ Open a PR that:
 <!-- ... omitting stuff in between ... -->
 
 <!-- TODO Change the start of the range -->
-[Unreleased]: https://github.com/rtfm-rs/cortex-m-rtfm/compare/v0.5.3...HEAD
+[Unreleased]: https://github.com/rtic-rs/cortex-m-rtic/compare/v0.5.3...HEAD
 
 <!-- TODO Add this new link -->
-[v0.5.3]: https://github.com/rtfm-rs/cortex-m-rtfm/compare/v0.5.2...v0.5.3
+[v0.5.3]: https://github.com/rtic-rs/cortex-m-rtic/compare/v0.5.2...v0.5.3
 
 <!-- NOTE This was already here -->
-[v0.5.2]: https://github.com/rtfm-rs/cortex-m-rtfm/compare/v0.5.1...v0.5.2
+[v0.5.2]: https://github.com/rtic-rs/cortex-m-rtic/compare/v0.5.1...v0.5.2
 ```
 
 - Bumps the crate version in `Cargo.toml`.
