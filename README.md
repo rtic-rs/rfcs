@@ -22,6 +22,7 @@ Check out the [Rust-embedded book][book] and the [RTIC book][rtic]
 - [@perlindgren](https://github.com/perlindgren)
 - [@nils-grepit](https://github.com/nils-grepit)
 - [@texitoi](https://github.com/texitoi)
+- [@AfoHT](https://github.com/AfoHT)
 
 ### Hibernating
 
