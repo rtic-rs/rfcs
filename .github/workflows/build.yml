@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       - name: Checkout
-        uses: actions/checkout@v1
+        uses: actions/checkout@v2
 
       - name: Rubber stamp approve
         run: exit 0
@@ -35,12 +35,3 @@ jobs:
     steps:
       - name: Mark the job as a success
         run: exit 0
-  ci-failure:
-    name: ci
-    if: github.event_name == 'push' && !success()
-    needs:
-      - pass
-    runs-on: ubuntu-20.04
-    steps:
-      - name: Mark the job as a failure
-        run: exit 1
