@@ -14,10 +14,10 @@ jobs:
   # Rubber stamp approve the PR
   pass:
     name: pass
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Rubber stamp approve
         run: exit 0
@@ -31,7 +31,7 @@ jobs:
     if: github.event_name == 'push' && success()
     needs:
       - pass
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
       - name: Mark the job as a success
         run: exit 0
